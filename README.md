@@ -1,6 +1,6 @@
 # OpenCoolMart-Mobile
 
-Objetivo General: (aun no definido)
+Objetivo: Desarrollar una aplicación que proporcione a pequeñas y medianas empresas un entorno que facilite la venta de los productos donde el usuario agregará estos mismos a un carrito de compras, el usuario podrá pagar por medio de una tarjeta de débito/crédito desde su smartphone y recoger sus productos en la tienda. También si el usuario lo desea podrá facturar su compra desde la misma aplicación y podrá consultar sus pedidos. 
 
 ## Datos del autor
 
