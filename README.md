@@ -22,4 +22,6 @@ Objetivo: Desarrollar una aplicación que proporcione a pequeñas y medianas e
             <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" with='40' height='40'>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" with='40' height='40'>
             <img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" with='40' height='40'> 
+- Arquitectura: <br>
+            <img src="https://dzone.com/storage/temp/4436217-kolka.png" with='300' height='300'> 
 - Editor: Visual Studio Code <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" with='25' height='25'>
