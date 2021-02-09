@@ -22,9 +22,7 @@
 .pub-cache/
 .pub/
 /build/
-
+.vscode/
 lib/generated_plugin_registrant.dart
-
 app.*.symbols
-
 app.*.map.json
